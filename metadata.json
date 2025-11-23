@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Vibe Mate",
+  "description": "An AI-powered emotion-aware wellness companion that detects your mood and provides personalized music and mindfulness recommendations.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
